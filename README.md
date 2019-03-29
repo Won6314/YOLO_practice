@@ -14,4 +14,9 @@ Instead of using 2box prediction and 20classes, I used 1box prediction and 12cla
 I trained about 24 epoches over COCO's 118,287 training data.
 COCO dataset has plenty of humans, animals, foods and sports but has so little other class like indoor, appliance so network is tend to detect any object with human category.
 
-so this is the result
+here's the result images
+
+![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/110_result.jpg)
+![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/210_result.jpg)
+![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/330_result.jpg)
+![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/1970_result.jpg)
