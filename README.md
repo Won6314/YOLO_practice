@@ -19,4 +19,4 @@ here's the result images
 ![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/110_result.jpg)
 ![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/210_result.jpg)
 ![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/330_result.jpg)
-![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/1970_result.jpg)
+![alt_text](https://github.com/Won6314/YOLO_practice/blob/master/train_images/1870_result.jpg)
